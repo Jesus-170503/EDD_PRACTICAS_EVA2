@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lanzarDado</string>
+    <string name="textview_titulo">Proyecto Lanzar Dado</string>
+    <string name="textView_resultado">Resultado</string>
+    <string name="button_lanzar">Lanzar</string>
+    <string name="textView_lado1">Lado1</string>
+    <string name="textView_lado1Porcentaje"> % </string>
+    <string name="textView_lado2">lado2</string>
+    <string name="textView_lado2Porcentaje"> % </string>
+    <string name="textView_lado3">lado3</string>
+    <string name="textView_lado3Porcentaje"> % </string>
+    <string name="textView_lado4">lado4</string>
+    <string name="textView_lado4Porcentaje"> % </string>
+    <string name="textView_lado5">lado5</string>
+    <string name="textView_lado5Porcentaje"> % </string>
+    <string name="textView_lado6">lado6</string>
+    <string name="textView_lado6Porcentaje"> % </string>
+    <string name="imageView_descripcion">Cara de un dado</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
